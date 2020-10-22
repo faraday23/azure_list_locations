@@ -1,0 +1,1 @@
+# azure_list_locations
